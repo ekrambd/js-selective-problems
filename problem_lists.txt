@@ -25,12 +25,14 @@
 25. Remove Duplicates From Sorted Array
 26. Remove Falsy Value
 27. Str Length wihout using Length
+Done
 28. Group By Users
 29. Array union
 30. Capatalize String
 31. Reverse Words
 Done
 32. Remove Element in place
+Done
 33. Convert Array to object base on ID
 34. Why try catch failed with async code
 35. Covert Map to Object without loop
