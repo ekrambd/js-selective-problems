@@ -24,6 +24,7 @@
 24. Rotate Array
 25. Remove Duplicates From Sorted Array
 26. Remove Falsy Value
+Done
 27. Str Length wihout using Length
 Done
 28. Group By Users
