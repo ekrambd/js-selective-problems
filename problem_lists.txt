@@ -29,6 +29,7 @@
 29. Array union
 30. Capatalize String
 31. Reverse Words
+Done
 32. Remove Element in place
 33. Convert Array to object base on ID
 34. Why try catch failed with async code
