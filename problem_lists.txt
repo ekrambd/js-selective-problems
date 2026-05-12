@@ -19,6 +19,7 @@
 19. Most Repeated Element
 20. Shallow Copy
 21. Check Array if sorted
+Done
 22. Find missing Number
 23. Move Zeroes
 24. Rotate Array
