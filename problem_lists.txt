@@ -11,6 +11,7 @@ Done
 10. Factorial
 11. FizzBuzz
 12. Flatten Array
+Done
 13. Largest Number in Flatten Array
 14. Sum of digits (1234)
 Done
