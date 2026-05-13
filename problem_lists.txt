@@ -18,6 +18,7 @@
 18. Frequency count in Array
 Done
 19. Most Repeated Element
+Done
 20. Shallow Copy
 21. Check Array if sorted
 Done
