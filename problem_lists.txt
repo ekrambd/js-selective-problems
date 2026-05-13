@@ -4,6 +4,7 @@
 4. Promise
 5. Async/Await
 6. Reverse Integer
+Done
 7. Compress String
 8. Closure Lexical Memory Scope
 9. Prime Number
@@ -23,6 +24,7 @@ Done
 21. Check Array if sorted
 Done
 22. Find missing Number
+Done
 23. Move Zeroes
 24. Rotate Array
 25. Remove Duplicates From Sorted Array
