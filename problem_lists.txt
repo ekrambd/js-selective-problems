@@ -13,6 +13,7 @@ Done
 12. Flatten Array
 Done
 13. Largest Number in Flatten Array
+Done
 14. Sum of digits (1234)
 Done
 15. Deep Copy
