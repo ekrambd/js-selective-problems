@@ -6,6 +6,7 @@
 6. Reverse Integer
 Done
 7. Compress String
+Done
 8. Closure Lexical Memory Scope
 9. Prime Number
 10. Factorial
