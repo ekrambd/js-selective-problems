@@ -13,6 +13,7 @@ Done
 12. Flatten Array
 13. Largest Number in Flatten Array
 14. Sum of digits (1234)
+Done
 15. Deep Copy
 16. Check Object Empty
 17. Some method
@@ -44,3 +45,4 @@ Done
 34. Why try catch failed with async code
 35. Covert Map to Object without loop
 36. Chunk Array Size
+37. Reverse String
