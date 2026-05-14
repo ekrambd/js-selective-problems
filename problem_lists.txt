@@ -38,6 +38,7 @@ Done
 24. Rotate Array
 Done
 25. Remove Duplicates From Sorted Array
+Done
 26. Remove Falsy Value
 Done
 27. Str Length wihout using Length
