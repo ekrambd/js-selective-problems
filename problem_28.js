@@ -2,9 +2,7 @@
 
 var groupBy = function(users){
     let result = {};
-    for(let i = 0; i < users.length; i++)
-    {
-        let user = users[i];
+    for(user of users){
         let role = user.role;
         if(!result[role]){
             result[role] = [];
