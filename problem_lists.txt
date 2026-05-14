@@ -30,6 +30,7 @@ Done
 22. Find missing Number
 Done
 23. Move Zeroes
+Done
 24. Rotate Array
 25. Remove Duplicates From Sorted Array
 26. Remove Falsy Value
