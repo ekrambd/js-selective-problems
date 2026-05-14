@@ -11,6 +11,7 @@ Done
 9. Prime Number
 10. Factorial
 11. FizzBuzz
+Done
 12. Flatten Array
 Done
 13. Largest Number in Flatten Array
