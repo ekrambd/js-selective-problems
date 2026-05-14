@@ -9,6 +9,7 @@ Done
 Done
 8. Closure Lexical Memory Scope
 9. Prime Number
+Starting
 10. Factorial
 Done
 11. FizzBuzz
@@ -22,6 +23,7 @@ Done
 15. Deep Copy
 16. Check Object Empty
 17. Some method
+Done
 18. Frequency count in Array
 Done
 19. Most Repeated Element
