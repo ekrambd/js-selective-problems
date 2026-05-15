@@ -9,7 +9,7 @@ Done
 Done
 8. Closure Lexical Memory Scope
 9. Prime Number
-Starting
+Done
 10. Factorial
 Done
 11. FizzBuzz
