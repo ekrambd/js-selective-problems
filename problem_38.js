@@ -3,16 +3,19 @@
 var secondLargest = function(nums){
     let largest = -Infinity;
     let secondLargest = -Infinity;
-    for(let i = 1; i < nums.length; i++)
+
+    for(let i = 0; i < nums.length; i++)
     {
         if(nums[i] > largest){
             secondLargest = largest;
             largest = nums[i];
-        }else if(nums[i] > secondLargest && nums[i] !== largest){
+        }
+        else if(nums[i] > secondLargest && nums[i] !== largest){
             secondLargest = nums[i];
         }
     }
-    return secondLargest;    
+
+    return secondLargest;
 };
 
 console.log(secondLargest([1,3,4,10,7,8]));

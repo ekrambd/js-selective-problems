@@ -61,3 +61,5 @@ Done
 Done
 38. Second Largest in Array
 Done
+39. First unique character in string
+Done
