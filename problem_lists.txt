@@ -59,6 +59,7 @@ Done
 34. Why try catch failed with async code
 35. Covert Map to Object without loop
 36. Chunk Array Size
+Done
 37. Reverse String
 Done
 38. Second Largest in Array
