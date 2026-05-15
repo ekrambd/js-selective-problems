@@ -8,6 +8,7 @@ Done
 7. Compress String
 Done
 8. Closure Lexical Memory Scope
+Done
 9. Prime Number
 Done
 10. Factorial
