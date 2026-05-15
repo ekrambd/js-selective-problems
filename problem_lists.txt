@@ -21,6 +21,7 @@ Done
 14. Sum of digits (1234)
 Done
 15. Deep Copy
+Done
 16. Check Object Empty
 17. Some method
 Done
