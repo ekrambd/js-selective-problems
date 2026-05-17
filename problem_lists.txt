@@ -2,7 +2,9 @@
 2. Debounced 
 3. Throttle vs Debounced
 4. Promise
+Done
 5. Async/Await
+Done
 6. Reverse Integer
 Done
 7. Compress String
